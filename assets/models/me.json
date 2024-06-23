@@ -1,0 +1,16 @@
+{
+  "data": {
+    "admission_number": "u16cs2024",
+    "name": "Nisone",
+    "email": "insambo@gmail.com",
+    "phone_number": null,
+    "nin": "10123456788",
+    "photo_url": "url",
+    "wallet": {
+      "address": "3a79e4b281544f899ec2176062a1caef",
+      "balance": 0,
+      "transactions": []
+    },
+    "rentals": []
+  }
+}

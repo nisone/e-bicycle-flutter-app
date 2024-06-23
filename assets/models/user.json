@@ -1,0 +1,18 @@
+{
+  "user": {
+    "admission_number": "u16cs2024",
+    "name": "Nisone",
+    "email": "insambo@gmail.com",
+    "phone_number": null,
+    "nin": "10123456788",
+    "photo_url": "url",
+    "wallet": {
+      "address": "3a79e4b281544f899ec2176062a1caef",
+      "balance": 0,
+      "transactions": []
+    },
+    "rentals": []
+  },
+  "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwMDAvYXBpL2F1dGgvcmVnaXN0ZXIiLCJpYXQiOjE3MTczNTQwOTcsImV4cCI6MTcxNzM1NzY5NywibmJmIjoxNzE3MzU0MDk3LCJqdGkiOiJkNFBrcGxndzdlT3huOGRKIiwic3ViIjoiMTIiLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.xmFmEd9ECvg6LalieArZptLcIxMPQBBP58XkzNZrJUc",
+  "token_type": "bearer"
+}
